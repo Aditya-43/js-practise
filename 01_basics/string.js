@@ -10,5 +10,8 @@ let age = 25;
  
  console.log(gameName.length);
  console.log(gameName.toUpperCase());
+
+ const url = "aditya.gurav@gamil.com"
+ console.log(url.replace('am','ma'));
  
  
