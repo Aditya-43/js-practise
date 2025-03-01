@@ -9,6 +9,10 @@
 // superHero.push(6)
 // console.log(superHero);
 
+ const hero = ['super','flash']
+ const marvel = ['spider','ant']
 
+ marvel.push(hero)
+ console.log(marvel)
 
 
