@@ -11,7 +11,7 @@ const jsUser = {
     hobby : "cricket", "fav_hobby ":"gaming "
 }
 
-console.log(jsUser.name , jsUser.age);
-console.log(jsUser.lastlogin[1]);
-//to access fav hobby 
-console.log(jsUser["fav_hobby "])
+// console.log(jsUser.name , jsUser.age);
+// console.log(jsUser.lastlogin[1]);
+// //to access fav hobby 
+// console.log(jsUser["fav_hobby "])
